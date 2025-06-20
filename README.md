@@ -1,4 +1,6 @@
- This repository contains solutions to a wide range of LeetCode problems beneficial for job interviews, organized by algorithmic techniques and data structures, all implemented in Java, Javascript, Typescript
+## 📘 LeetCode Solutions – Java | JavaScript | TypeScript
+
+This repository contains solutions to a wide range of LeetCode problems beneficial for job interviews, organized by algorithmic techniques and data structures, all implemented in Java, Javascript, Typescript
 
 Whether you're preparing for coding interviews, brushing up on your data structures and algorithms, or simply looking for reference implementations—this repo is for you!
 
